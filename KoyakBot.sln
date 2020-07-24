@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoyakBot", "KoyakBot\KoyakBot.csproj", "{B490BB70-4CAB-4289-955C-AC5371CD49CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B490BB70-4CAB-4289-955C-AC5371CD49CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B490BB70-4CAB-4289-955C-AC5371CD49CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B490BB70-4CAB-4289-955C-AC5371CD49CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B490BB70-4CAB-4289-955C-AC5371CD49CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FA3C97-AAB5-45BE-A265-8363597C78FC}
+	EndGlobalSection
+EndGlobal

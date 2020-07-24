@@ -1,0 +1,8 @@
+.vs
+.git
+*.suo
+*.user
+_ReSharper.*
+KoyakBot/bin/
+KoyakBot/obj/
+packages/
